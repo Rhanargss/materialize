@@ -1,0 +1,14 @@
+body{
+    background-image: url("../img/background/typewriter.jpg");
+    background-attachment: fixed;
+}
+
+.parte, footer {
+    margin-top: 50vh;
+}
+
+.icone{
+    height: 5vh;
+    width: 5vh;
+
+}
